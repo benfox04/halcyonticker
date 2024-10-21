@@ -1,7 +1,7 @@
 * {
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
-    color: rgb(95, 95, 95)
+    color: rgb(255, 255, 255)
     
 }
 
@@ -46,7 +46,7 @@ h1 {
 }
 
 #Drake {
-    border: 10px solid burlywood;
+    border: 10px solid #ea7724;
     border-radius: 25px;
     
 }
@@ -63,7 +63,7 @@ h2 {
 }
 
 body {
-    background-color:#EAEDF0;
+    background-color:#0093cf;
 }
 
 .button {
