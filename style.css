@@ -36,10 +36,13 @@ h1 {
 .heading {
     text-align: center;
     font-weight: bold;
+    width:300px;
     float: left; 
 
 }
-
+.main {
+    width: 800px;
+}
 .title {
     display: inline-block;
     padding-left: 8px; 
@@ -104,6 +107,7 @@ img {
 
 .logo {
     float: right; 
+    width: 300px; 
 }
 
 .columns {
