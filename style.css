@@ -7,13 +7,7 @@
     
 }
 
-.flex {
-    display: flex; 
-    /* justify-content: flex-start; */
-    flex-direction: column;
 
-
-}
 
 .nav-list {
     display: flex;
@@ -44,7 +38,8 @@ h1 {
 }
 
 .heading {
-    text-align: left;
+    text-align: justify;
+    text-justify: inter-word;
     font-weight: bold;
     margin-left: 200px; 
 
