@@ -38,10 +38,8 @@ h1 {
 }
 
 .heading {
-    text-align: center;
-    text-justify: inter-word;
+    text-align: center
     font-weight: bold;
-    margin-left: 200px; 
 
 }
 
