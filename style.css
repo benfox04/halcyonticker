@@ -11,6 +11,8 @@
     display: flex; 
     justify-content: flex-start;
     flex-direction: column;
+    flex-wrap: wrap;
+    flex-grow: 1; 
 
 }
 
