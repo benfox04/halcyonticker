@@ -7,6 +7,12 @@
     
 }
 
+.flex {
+    display: flex; 
+    justify-content: flex-start;
+    
+}
+
 .nav-list {
     display: flex;
     flex-wrap: wrap;
