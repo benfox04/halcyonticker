@@ -135,3 +135,9 @@ hr {
     border-radius: 25px;
 
 }
+
+.footer {
+    position: absolute; 
+    bottom: 30px; 
+    width: 100px;
+}
