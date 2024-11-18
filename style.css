@@ -6,6 +6,7 @@
 
 
 h1 {
+    display: flex;
     font-size: 40px;
     text-align: center; 
     font-weight: 100;
