@@ -24,14 +24,12 @@ h1 {
 .title {
     display: flex;
     flex-direction: column;
-    max-width: fit-content;
     margin-inline: auto; 
 }
 
 .data {
     display: flex;
     flex-direction: column;
-    max-width: fit-content;
     margin-inline: auto; 
     color: rgb(217, 96, 45);
 }
