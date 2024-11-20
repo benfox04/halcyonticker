@@ -28,8 +28,6 @@ h1 {
 }
 
 .data {
-    display: flex;
-    flex-direction: column;
     margin-inline: auto; 
     color: rgb(217, 96, 45);
 }
